@@ -1,0 +1,66 @@
+h2{
+  color: #cccc00;
+  font-style: italic;
+  font-size: 3em;
+  text-align:center;
+}
+
+#box{
+ margin:3em;
+ background-color: rgba(255,255,255,0.75);
+   border-radius:15px;
+  padding: 3em;
+  padding-bottom:2em;
+  margin-top:20px;
+  color:##666699;
+}
+.myBackground{
+ background:url(https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+.text{
+  color:black;
+  font-size:25px;
+  float: left;
+  text-align: left;
+   margin-left: 30px;
+   margin-right: 30px;
+  font-weight: 900;
+}
+.author{
+  color:#0000ff;
+  font-size:19px;
+  float: right;
+   text-align: right;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 2px;
+  border-radius: 50%;
+}
+.fa-twitter:hover {
+    background: #3399ff;
+    color: #fff;
+  }
+#btn:hover{
+  background-color: #4CAF50;
+    color: brwon;
+}
